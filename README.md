@@ -32,7 +32,9 @@ This lab involved creating and configuring a cloud-based IT infrastructure using
 - RDP (Remote Desktop Protocol)
 
 ## 🖼️ Screenshots  
-*(Insert screenshots showing Azure setup, IP settings, ping tests, etc.)*
+
+https://github.com/user-attachments/assets/3a830ea5-b71e-4b62-b45e-dd7e5e3e6a58
+
 
 ## 📘 Lessons Learned
 - Importance of IP and DNS configurations in domain environments
