@@ -29,7 +29,7 @@ This lab involved creating and configuring a cloud-based IT infrastructure using
 ## 🛠️ Tools Used
 - Azure Portal  
 - Windows Admin Tools  
-- RDP  
+- RDP (Remote Desktop Protocol)
 
 ## 🖼️ Screenshots  
 *(Insert screenshots showing Azure setup, IP settings, ping tests, etc.)*
